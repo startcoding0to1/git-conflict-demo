@@ -1,6 +1,6 @@
 public class EmployeeService {
 
     public String getEmployeeName() {
-        return "Employee";
+        return "Employee Details";
     }
 }
